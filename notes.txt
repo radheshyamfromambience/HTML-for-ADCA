@@ -73,7 +73,7 @@ h1 -- h6
                     Reletive path
 
         img
-        links-
+        links-   Map, Youtube, icons
 
         audio
         video

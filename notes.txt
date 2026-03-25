@@ -1,0 +1,79 @@
+Tag?
+
+<a> - Tag
+
+
+
+There are two types of Tag
+
+1. Single Tag      --- >  <br/> <hr>
+2. Pair Tag ---> Opening Tag  --->   <html>
+
+                Closing Tag    ---> </html>
+
+
+Syntax
+
+
+<html>
+    <head>
+    <title>Ambience</title>
+    </head>
+    <body>
+    </body>
+</html>
+
+
+There six types of heading
+
+h1 -- h6
+
+
+<!--This is comented text-->
+
+
+1. Paragraph
+        Blod
+        Itlic
+        undeline
+        strickthrow
+        highlight
+        subscript
+        superscript
+
+
+
+        <br> Tag
+        <hr> Tag
+
+
+        List
+
+        1. Order List
+        2. Unorder List
+        3. Defination List
+
+
+
+        attributes  -   jab kishi tag ke ander koi special properties aa jati hai 
+
+
+        <h1 style="color:red;">hello</h1>
+
+
+        <ol type=""></ol>
+
+
+        Media
+
+        anchor tag
+        img   --->  
+
+        path  -->   absolute path
+                    Reletive path
+
+        img
+        links-
+
+        audio
+        video
